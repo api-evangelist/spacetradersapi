@@ -1,0 +1,32 @@
+aid: spacetradersapi
+name: SpaceTradersAPI
+description: "A playable inter-galactic space trading MMOAPI"
+url: https://spacetraders.io?rel=pub-apis
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Games & Comics"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Games And Comics
+  - Public APIs
+apis:
+  - name: SpaceTradersAPI
+    description: "A playable inter-galactic space trading MMOAPI"
+    humanURL: https://spacetraders.io?rel=pub-apis
+    baseURL: https://spacetraders.io?rel=pub-apis
+    tags:
+      - Games And Comics
+    properties:
+      - type: Documentation
+        url: https://spacetraders.io?rel=pub-apis
+common:
+  - type: Website
+    url: https://spacetraders.io?rel=pub-apis
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
