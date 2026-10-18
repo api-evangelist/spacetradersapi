@@ -40,7 +40,8 @@ apis:
   - name: SpaceTradersAPI
     description: "A playable inter-galactic space trading MMOAPI"
     humanURL: https://spacetraders.io?rel=pub-apis
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
